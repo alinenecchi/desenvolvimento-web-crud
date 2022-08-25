@@ -1,0 +1,24 @@
+{
+  "name": "desenvolvimento-web-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinenecchi/desenvolvimento-web-crud.git"
+  },
+  "keywords": [],
+  "author": "Aline",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/alinenecchi/desenvolvimento-web-crud/issues"
+  },
+  "homepage": "https://github.com/alinenecchi/desenvolvimento-web-crud#readme"
+}
