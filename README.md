@@ -1,10 +1,8 @@
 # desenvolvimento-web-crud
 
-Inicialização do Sistema V (serviço)
-1
-Inicie o MongoDB.
-Você pode iniciar o
-mongod
-processo emitindo o seguinte comando:
-
-sudo systemctl start mongod
+### Inicialização do Sistema (serviço)
+- Inicie o MongoDB.
+- Você pode iniciar o mongod com o seguinte comando:
+  ```sh 
+  sudo systemctl start mongod
+  ```
